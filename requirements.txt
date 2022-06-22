@@ -5,7 +5,7 @@ configparser==5.0.0
 idna==2.9
 joblib==0.14.1
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.0.3
 PySocks==1.7.1
